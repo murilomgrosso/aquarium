@@ -1,6 +1,8 @@
-# Unnamed Computer Graphics Project
+# Aquarium
 
-A simple 3D aquarium made in OpenGL
+A simple C++ 3D aquarium made in OpenGL.
 
-To compile and run:
+![](./resources/program_execution.gif)
+
+## How to compile and run
 >g++ src/*.cpp -I includes -o bin/main -lGLU -lglut -lGL -lm && bin/main
